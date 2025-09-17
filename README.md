@@ -46,14 +46,12 @@ This project leverages Power BI to explore and analyze trends in the data scienc
   Skills required for different roles
 
 - Dashboard Design: Develop user-friendly interfaces for intuitive data exploration.
-
-- Sharing & Collaboration: Publish the dashboard on Power BI Service for stakeholder access and feedback.
-
+  
 ---
 
 ## 🔑 Key Insights  
 - Growing Opportunities: The volume of data-related job postings has steadily increased over the years.
-
+  
 - High-Demand Roles: Data Scientists, Data Engineers, and Analysts remain the most sought-after positions.
 
 - Rising Salaries: Compensation in the data science sector continues to trend upward.
