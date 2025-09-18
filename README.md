@@ -59,9 +59,3 @@ This project leverages Power BI to explore and analyze trends in the data scienc
 - Leading Industries: Technology companies drive the majority of data science job openings.
 
 ---
-## 🖼 Dashboard Preview  
-
-```md
-![Dashboard Overview](images/dashboard-overview.png)
-![Skills Frequency](images/skills-frequency.png)
-![Salary by Role](images/salary-by-role.png)
